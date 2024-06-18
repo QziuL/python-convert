@@ -2,10 +2,6 @@
 
 Script Python que converte URLs do Youtube para um arquivo MP3.
 
-    Python: O ambiente de execução para o script.
-    yt-dlp: Ferramenta para baixar vídeos do YouTube.
-    ffmpeg: Software para manipulação de áudio e vídeo.
-
 Instruções para instalação:
 ### 1. Instalar Python (se ainda não estiver instalado):
 
